@@ -1,0 +1,26 @@
+.env
+pyvenv.cfg
+include
+lib
+bin
+bady
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
